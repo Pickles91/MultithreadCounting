@@ -9,12 +9,10 @@ import java.util.concurrent.Future;
 public class Driver {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		int nThreads = 0;
 		int upperBound = 0;
 		
-		// Create an instance of Scanner named sc
 		Scanner sc = new Scanner(System.in);
 		
 		while (true) {
